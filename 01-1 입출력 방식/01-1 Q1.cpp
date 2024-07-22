@@ -5,10 +5,10 @@ int main(void)
 	int num, sum=0;
 	for(int i=1;i<6;i++)
 	{
-		std::cout<<i<<"¹øÂ° Á¤¼ö ÀÔ·Â: ";
+		std::cout<<i<<"ï¿½ï¿½Â° ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½: ";
 		std::cin>>num;
 		sum+=num;
 	}
-	std::cout<<"ÇÕ°è: "<<sum;
+	std::cout<<"ï¿½Õ°ï¿½: "<<sum;
 	return 0;
  } 
